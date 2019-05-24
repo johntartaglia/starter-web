@@ -12,6 +12,7 @@ Yet another.
 ## Deployment
 
 ## How To Contribute
+Fork repository and issue pull requests for review.
 
 ## Copyright
  
