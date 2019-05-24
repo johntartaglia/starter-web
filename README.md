@@ -13,3 +13,7 @@ Yet another.
 
 ## How To Contribute
 
+## Copyright
+ 
+ Git.Training
+
