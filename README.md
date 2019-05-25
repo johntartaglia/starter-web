@@ -17,5 +17,5 @@ Fork repository and issue pull requests for review.
 
 ## Copyright
  
- Git.Training
+ Git.Training. All rights reserved.
 
